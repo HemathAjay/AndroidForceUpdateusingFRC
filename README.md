@@ -1,1 +1,1 @@
-# AndroidForceUpdateusingFirebaseRemoteConfig
+# AndroidForceUpdateusingFRC (Firebase Remote Config)
