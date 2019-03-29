@@ -15,7 +15,7 @@ implementation 'com.google.firebase:firebase-config:16.4.0'
 
 3. Add the required parameters in remote config and publish.
 
-   ![Image_01](/Images/Image_01.png)
+   ![Image_01](/Assert/Images/Image_01.png)
    
 4. AppUpadteDialog.java
 
